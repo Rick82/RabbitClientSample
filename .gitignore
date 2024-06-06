@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Receive/obj
+/Receive/bin/Debug/net8.0
+/Send/bin/Debug/net8.0
+/Send/obj
+/Receive/.vs
+/Send/.vs
+/.vs/RabbitClientSample
